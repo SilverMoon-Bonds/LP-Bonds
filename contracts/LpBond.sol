@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: CC0-1.0
 
-// Bond contract for rewards share of Collators, node operators, and infrastucture providers.
+// Bond contract that holds LP Tokens from a liquidity pool.
 //Based on the EIP-3475 Abstract Storage Bond standard
 pragma solidity ^0.8.0;
 
