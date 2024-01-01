@@ -2,6 +2,7 @@
 
 // Bond contract that holds LP Tokens from a liquidity pool.
 //Based on the EIP-3475 Abstract Storage Bond standard
+//contract holds LP Tokens
 pragma solidity ^0.8.0;
 
 import "./interfaces/IERC3475.sol";
